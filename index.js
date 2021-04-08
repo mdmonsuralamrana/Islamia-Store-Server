@@ -35,7 +35,7 @@ client.connect(err => {
       })
   })
 
-  app.get('/food/:id', (req, res) => {
+  app.get('/product/:id', (req, res) => {
     productsCollection.find({_id: ObjectId(req.params.id)})
     .toArray((err , items) => {
       res.send(items[0])
