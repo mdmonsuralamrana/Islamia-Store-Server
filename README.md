@@ -1,8 +1,11 @@
-# Getting started with Frozen Food Server
+# Get Started With a full stack web site .
 
-There i used Mongodb, Express js, React js and node js.
+Here is server site. 
 
-You can useing this applictation please go here https://cranky-wiles-4bf824.netlify.app/
+There I used Mongodb, Express js, React js and node js.
+
+Are You Interested To Saw this ?
+Please go there :  https://islamia-store.web.app/
 
 Thanks
 # full-stack-server-mdmonsuralamrana
